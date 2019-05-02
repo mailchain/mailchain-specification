@@ -1,6 +1,6 @@
 # Mailchain Proposal
 Version 0.0.1 - Draft
-## Introduction
+# Introduction
 Mailchain enables blockchain-based email-like messaging with plain or rich text and attachment capabilities. Using blockchain protocols and decentralized storage, Mailchain delivers a simple, secure, messaging experience.
 
 Account holders or owners of a public address often need to communicate in the context of the account or public address. Communication may relate to transactions, account actions or some type of notification.
@@ -11,7 +11,7 @@ The majority of blockchain protocols provide no standard way to handle messaging
 
 This proposal outlines how Mailchain gives users the ability to send and receive rich-media HTML messages between public addresses through a simple, email-like interface. All message contents and attachments are encrypted so only the intended recipient of the message can decrypt and view messages.
 
-## Mailchain Message Lifecycle
+# Mailchain Message Lifecycle
 Mailchain is a simple, secure and practical standard which can be implemented across different blockchains. It uses underlying native blockchain protocol capabilities including addressing, immutability, data transmission, and cryptography.
 
 The basic message flow is as follows:
@@ -20,7 +20,7 @@ The basic message flow is as follows:
 
 * To read a message, a recipient uses a corresponding private key to decrypt the location of the message from the data field of a transaction and decrypt the message contents.
 
-## Anonymity, Privacy and Encryption
+# Anonymity, Privacy and Encryption
 Mailchain considers anonymity of senders and recipients a high priority.
 
 The Mailchain application handles encryption and decryption of data (see *Mailchain Message Lifecycle* for further details). All data is encrypted when transmitted or stored outside of the mailchain/mailchain-web application flow.
@@ -29,7 +29,7 @@ Anyone with the recipient account’s private key can decrypt messages, so it is
 
 The underlying blockchain protocol (e.g. ethereum, bitcoin etc.) is responsible for dictating the sender & recipient privacy model.
 
-## What's here
+# What's here
 
 There are three important files in this repository:
 
@@ -48,7 +48,7 @@ From version 1.0.0:
 * Software must be capable of reading old versions
 
 
-## License
+# License
 
 By contributing to the Mailchain Specification repository, you agree that your contributions will be licensed under its [Apache 2.0 License](https://github.com/mailchain/mailchain-specification/blob/master/LICENSE).
 
