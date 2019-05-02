@@ -34,7 +34,9 @@ The underlying blockchain protocol (e.g. ethereum, bitcoin etc.) is responsible 
 There are three important files in this repository:
 
 [mailchain_requirements](https://github.com/mailchain/mailchain-specification/blob/master/mailchain_requirements.md)
+
 [mailchain_tenets](https://github.com/mailchain/mailchain-specification/blob/master/mailchain_tenets.md)
+
 [mailchain_threat_model](https://github.com/mailchain/mailchain-specification/blob/master/mailchain_threat_model.md)
 
 
