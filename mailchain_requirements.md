@@ -92,12 +92,14 @@ A message MUST contain the following fields:
 Headers: | The message headers
 
 A message SHOULD contain the following fields:
+
 | Field | Description 
 | - | - 
 Subject: | The message subject
 Body: | The message body
 
 A message MUST have the following header fields: 
+
 | Field | Description 
 | - | - 
 To: | The recipient public address
@@ -108,11 +110,13 @@ Content-Type: | As per RFC6532 content type for the contents of the 	message ( [
 Content-Transfer-Encoding: | How the message body SHOULD encoded
 
 A message SHOULD have the following header fields: 
+
 | Field | Description 
 | - | - 
 Subject: | The message subject
 
 A message MAY contain the following header fields:
+
 | Field | Description 
 | - | - 
 Reply-To: | The public address responses should be sent to
