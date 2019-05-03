@@ -1,5 +1,5 @@
-# Mailchain Proposal
-Version 0.0.1 - Draft
+# Mailchain Specification
+
 ## Introduction
 Mailchain enables blockchain-based email-like messaging with plain or rich text and attachment capabilities. Using blockchain protocols and decentralized storage, Mailchain delivers a simple, secure, messaging experience.
 
@@ -11,7 +11,7 @@ The majority of blockchain protocols provide no standard way to handle messaging
 
 This proposal outlines how Mailchain gives users the ability to send and receive rich-media HTML messages between public addresses through a simple, email-like interface. All message contents and attachments are encrypted so only the intended recipient of the message can decrypt and view messages.
 
-## Mailchain Message Lifecycle
+## Mailchain Message Lifecycle 
 Mailchain is a simple, secure and practical standard which can be implemented across different blockchains. It uses underlying native blockchain protocol capabilities including addressing, immutability, data transmission, and cryptography.
 
 The basic message flow is as follows:
@@ -29,24 +29,28 @@ Anyone with the recipient account’s private key can decrypt messages, so it is
 
 The underlying blockchain protocol (e.g. ethereum, bitcoin etc.) is responsible for dictating the sender & recipient privacy model.
 
-## What's here
+---
+
+## What's here?
 
 There are three important files in this repository:
 
-[mailchain_requirements](https://github.com/mailchain/mailchain-specification/blob/master/mailchain_requirements.md)
+1. [mailchain_specification](https://github.com/mailchain/mailchain-specification/blob/master/mailchain_specification.md) - This lays out the specification for mailchain.
 
-[mailchain_tenets](https://github.com/mailchain/mailchain-specification/blob/master/mailchain_tenets.md)
+1. [mailchain_tenets](https://github.com/mailchain/mailchain-specification/blob/master/mailchain_tenets.md) - This declares the approach to design and decision-making.
 
-[mailchain_threat_model](https://github.com/mailchain/mailchain-specification/blob/master/mailchain_threat_model.md)
+1. [mailchain_threat_model](https://github.com/mailchain/mailchain-specification/blob/master/mailchain_threat_model.md) - This details known threats and how they might be mitigated.
 
+## Working in this repo ##
 
-# Compatibility
+We :heart: pull requests! See [`CONTRIBUTING.md`](CONTRIBUTING.md) for info on contributing changes.
+
+## Compatibility
 Mailchain implements Semantic Versioning (see  [https://semver.org](https://semver.org/)  for more information).
 
 From version 1.0.0:
 * New versions should be backwards compatible
 * Software must be capable of reading old versions
-
 
 ## License
 
