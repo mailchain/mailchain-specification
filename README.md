@@ -33,11 +33,13 @@ The underlying blockchain protocol (e.g. ethereum, bitcoin etc.) is responsible 
 
 ## What's here?
 
-There are three important files in this repository:
+There are four important files in this repository:
 
 1. [mailchain_specification](https://github.com/mailchain/mailchain-specification/blob/master/mailchain_specification.md) - This lays out the specification for mailchain.
 
 1. [mailchain_tenets](https://github.com/mailchain/mailchain-specification/blob/master/mailchain_tenets.md) - This declares the approach to design and decision-making.
+
+1. [mailchain_use_cases](https://github.com/mailchain/mailchain-specification/blob/master/mailchain_use_cases.md) - This outlines some potential use cases for mailchain (feel free to suggest more).
 
 1. [mailchain_threat_model](https://github.com/mailchain/mailchain-specification/blob/master/mailchain_threat_model.md) - This details known threats and how they might be mitigated.
 
