@@ -1,5 +1,7 @@
 ## Mailchain Tenets
-Mailchain’s tenets guide its approach to design and decision-making. Unless you know better ones…
+Mailchain’s tenets guide its approach to design and decision-making. 
+
+Unless you know better ones…
 
 1. User experience: Users expect a good experience. There should be no compromise on delivering the best experience within the bounds of today’s available technology.
 
