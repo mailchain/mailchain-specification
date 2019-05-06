@@ -1,5 +1,22 @@
 # Mailchain Specification
 
+
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+
+<!-- code_chunk_output -->
+
+* [Mailchain Specification](#mailchain-specification)
+	* [Introduction](#introduction)
+	* [Mailchain Message Lifecycle](#mailchain-message-lifecycle)
+	* [Anonymity, Privacy and Encryption](#anonymity-privacy-and-encryption)
+	* [What's here?](#whats-here)
+	* [Working in this repo](#working-in-this-repo)
+	* [Compatibility](#compatibility)
+	* [License](#license)
+
+<!-- /code_chunk_output -->
+
+
 ## Introduction
 Mailchain enables blockchain-based email-like messaging with plain or rich text and attachment capabilities. Using blockchain protocols and decentralized storage, Mailchain delivers a simple, secure, messaging experience.
 
@@ -43,7 +60,7 @@ There are four important files in this repository:
 
 1. [mailchain_threat_model](https://github.com/mailchain/mailchain-specification/blob/master/mailchain_threat_model.md) - This details known threats and how they might be mitigated.
 
-## Working in this repo ##
+## Working in this repo
 
 We :heart: pull requests! See [`CONTRIBUTING.md`](CONTRIBUTING.md) for info on contributing changes.
 
