@@ -9,19 +9,19 @@
 
 3. **Payment**
 
-    A user wishes to send a payment in ETH with a remittance note attached.
+    A user wishes to send a payment in a cryptocurrency or tokens with a remittance note attached.
 
 4. **Gift**
 
-    A user wishes to send ETH to a relative with a birthday message.
+    A user wishes to send a cryptocurrency or tokens to a relative with a birthday message.
 
 5. **Donation**
 
-    A user wishes to send a donation in ETH to a charity with a message.
+    A user wishes to send a donation in a cryptocurrency or tokens to a charity with a message.
 
 6. **Trading digital assets & collectibles**
 
-    A user loves that cryptokitty, ENS name or other NFT, so sends a message to make an offer to trade.
+    A user loves that cryptokitty, decentralized DNS-equivalent name or other NFT, so sends a message to make an offer to trade.
 
 7. **After-sales support**
 
@@ -38,4 +38,7 @@
 10. **Community bug discovery**
 
     A smart contract security service provider recognises a vulnerability in contract software. They need to notify the anonymous owner of the contract, but have no way to identify them.
+    
+11. **Airdrop Subscription**
+    A project owner or token issuer planning to offer tokens via an airdrop can send a message to users with details on how to opt-in for an airdrop. This avoids the need to blanket drop tokens to addresses that may not use ever them.
 
