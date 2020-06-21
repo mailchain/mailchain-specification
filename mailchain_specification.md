@@ -1,5 +1,5 @@
 # Mailchain Requirements
-The following requirements set out how Mailchain can be implemented on top of a blockchain (See Appendix 1 - Ethereum Implementation for a sample implementation).
+The following requirements set out how Mailchain can be implemented on top of a blockchain (See [Ethereum Implementation](https://docs.mailchain.xyz/reference/ethereum) for a sample implementation).
 
 ## Requirements Notation
 This document occasionally uses terms that appear in capital letters. When the terms “MUST”, “SHOULD”, “RECOMMENDED”, “MUST NOT”, “SHOULD NOT”, and “MAY” appear capitalised, they are being used to indicate particular requirements of this specification. A discussion of the meanings of these terms appears in [RFC2119](https://tools.ietf.org/html/rfc2119).
